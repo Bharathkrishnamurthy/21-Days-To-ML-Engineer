@@ -6,22 +6,42 @@ Welcome to Day 2 of the 21 Days to ML Engineer series by Bharath Builds.
 In this session, we move from the ML project lifecycle into the first practical step: collecting, loading, and understanding real-world data.
 
 🎯 Objectives
+
 Understand Data Collection
+
 Explore different data sources
+
 Download and upload datasets
+
 Load data using Pandas
+
 Understand rows, columns, features & target
+
 Perform basic data inspection
+
 Visualize the dataset
+
 Interpret basic patterns and relationships
+
 Identify the target variable
+
 Get the data ready for the next step — Data Cleaning
+
+
 🛠️ Tools Used
+
 Python
+
 Google Colab
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
+
+
 📊 Dataset
 
 House Price Dataset
